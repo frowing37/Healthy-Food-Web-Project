@@ -1,0 +1,22 @@
+﻿@model Core_MVC_Project_6.Models.Category;
+
+@{
+    ViewData["Title"] = "UpdateCategory";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@using(Html.BeginForm("UpdateCategory","Category",FormMethod.Post))
+{
+    <br />
+    <h3>Category ID</h3>
+    @Html.TextBoxFor(m => m.CategoryID);
+    <h3>Category Name</h3>
+    @Html.TextBoxFor(m => m.CategoryName, new { @class="form-control"})
+    @Html.ValidationMessageFor(m => m.CategoryName,"",new { @style="color=red"})
+    <h3>Category Description</h3>
+    @Html.TextBoxFor(m => m.CategoryDescription, new { @class="form-control"})
+    @Html.ValidationMessageFor(m => m.CategoryName,"",new { @style="color=red"})
+    <br />
+    <button class="btn btn-default" style="background-color:aquamarine; margin-left:10px;">Save Changes</button>
+}
+

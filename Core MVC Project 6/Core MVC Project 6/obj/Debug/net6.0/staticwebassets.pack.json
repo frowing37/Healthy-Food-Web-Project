@@ -1,0 +1,1353 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Core MVC Project 6.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Core MVC Project 6.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\css\\main.css",
+      "PackagePath": "staticwebassets\\Login_v6\\css\\main.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\css\\util.css",
+      "PackagePath": "staticwebassets\\Login_v6\\css\\util.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v6\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\images\\analizebaklogo17.png",
+      "PackagePath": "staticwebassets\\Login_v6\\images\\analizebaklogo17.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\images\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\Login_v6\\images\\avatar-01.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\Login_v6\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\index.html",
+      "PackagePath": "staticwebassets\\Login_v6\\index.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\js\\main.js",
+      "PackagePath": "staticwebassets\\Login_v6\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\Login_v6\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Login_v6\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\about.html",
+      "PackagePath": "staticwebassets\\web2\\about.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\bread.html",
+      "PackagePath": "staticwebassets\\web2\\bread.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\checkout.html",
+      "PackagePath": "staticwebassets\\web2\\checkout.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\web2\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\css\\creditly.css",
+      "PackagePath": "staticwebassets\\web2\\css\\creditly.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\css\\easy-responsive-tabs.css",
+      "PackagePath": "staticwebassets\\web2\\css\\easy-responsive-tabs.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\web2\\css\\flexslider.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\web2\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\css\\style.css",
+      "PackagePath": "staticwebassets\\web2\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\drinks.html",
+      "PackagePath": "staticwebassets\\web2\\drinks.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\events.html",
+      "PackagePath": "staticwebassets\\web2\\events.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\faqs.html",
+      "PackagePath": "staticwebassets\\web2\\faqs.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\web2\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\web2\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\web2\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\web2\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\web2\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\web2\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\web2\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\frozen.html",
+      "PackagePath": "staticwebassets\\web2\\frozen.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\household.html",
+      "PackagePath": "staticwebassets\\web2\\household.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\1.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\1.png",
+      "PackagePath": "staticwebassets\\web2\\images\\1.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\10.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\10.png",
+      "PackagePath": "staticwebassets\\web2\\images\\10.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\11.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\11.png",
+      "PackagePath": "staticwebassets\\web2\\images\\11.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\12.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\12.png",
+      "PackagePath": "staticwebassets\\web2\\images\\12.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\13.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\13.png",
+      "PackagePath": "staticwebassets\\web2\\images\\13.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\14.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\14.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\14.png",
+      "PackagePath": "staticwebassets\\web2\\images\\14.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\15.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\15.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\15.png",
+      "PackagePath": "staticwebassets\\web2\\images\\15.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\16.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\16.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\16.png",
+      "PackagePath": "staticwebassets\\web2\\images\\16.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\17.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\17.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\17.png",
+      "PackagePath": "staticwebassets\\web2\\images\\17.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\18.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\18.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\18.png",
+      "PackagePath": "staticwebassets\\web2\\images\\18.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\19.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\19.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\19.png",
+      "PackagePath": "staticwebassets\\web2\\images\\19.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\2.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\2.png",
+      "PackagePath": "staticwebassets\\web2\\images\\2.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\20.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\20.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\20.png",
+      "PackagePath": "staticwebassets\\web2\\images\\20.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\21.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\21.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\21.png",
+      "PackagePath": "staticwebassets\\web2\\images\\21.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\22.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\22.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\22.png",
+      "PackagePath": "staticwebassets\\web2\\images\\22.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\23.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\23.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\23.png",
+      "PackagePath": "staticwebassets\\web2\\images\\23.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\24.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\24.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\24.png",
+      "PackagePath": "staticwebassets\\web2\\images\\24.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\25.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\25.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\25.png",
+      "PackagePath": "staticwebassets\\web2\\images\\25.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\26.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\26.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\26.png",
+      "PackagePath": "staticwebassets\\web2\\images\\26.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\27.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\27.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\27.png",
+      "PackagePath": "staticwebassets\\web2\\images\\27.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\28.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\28.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\28.png",
+      "PackagePath": "staticwebassets\\web2\\images\\28.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\29.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\29.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\29.png",
+      "PackagePath": "staticwebassets\\web2\\images\\29.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\3.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\3.png",
+      "PackagePath": "staticwebassets\\web2\\images\\3.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\30.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\30.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\30.png",
+      "PackagePath": "staticwebassets\\web2\\images\\30.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\31.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\31.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\31.png",
+      "PackagePath": "staticwebassets\\web2\\images\\31.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\32.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\32.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\32.png",
+      "PackagePath": "staticwebassets\\web2\\images\\32.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\33.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\33.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\33.png",
+      "PackagePath": "staticwebassets\\web2\\images\\33.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\34.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\34.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\34.png",
+      "PackagePath": "staticwebassets\\web2\\images\\34.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\35.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\35.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\35.png",
+      "PackagePath": "staticwebassets\\web2\\images\\35.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\36.png",
+      "PackagePath": "staticwebassets\\web2\\images\\36.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\37.png",
+      "PackagePath": "staticwebassets\\web2\\images\\37.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\38.png",
+      "PackagePath": "staticwebassets\\web2\\images\\38.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\39.png",
+      "PackagePath": "staticwebassets\\web2\\images\\39.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\4.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\4.png",
+      "PackagePath": "staticwebassets\\web2\\images\\4.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\40.png",
+      "PackagePath": "staticwebassets\\web2\\images\\40.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\41.png",
+      "PackagePath": "staticwebassets\\web2\\images\\41.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\42.png",
+      "PackagePath": "staticwebassets\\web2\\images\\42.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\43.png",
+      "PackagePath": "staticwebassets\\web2\\images\\43.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\44.png",
+      "PackagePath": "staticwebassets\\web2\\images\\44.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\45.png",
+      "PackagePath": "staticwebassets\\web2\\images\\45.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\46.png",
+      "PackagePath": "staticwebassets\\web2\\images\\46.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\47.png",
+      "PackagePath": "staticwebassets\\web2\\images\\47.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\48.png",
+      "PackagePath": "staticwebassets\\web2\\images\\48.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\49.png",
+      "PackagePath": "staticwebassets\\web2\\images\\49.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\5.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\5.png",
+      "PackagePath": "staticwebassets\\web2\\images\\5.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\50.png",
+      "PackagePath": "staticwebassets\\web2\\images\\50.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\51.png",
+      "PackagePath": "staticwebassets\\web2\\images\\51.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\52.png",
+      "PackagePath": "staticwebassets\\web2\\images\\52.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\53.png",
+      "PackagePath": "staticwebassets\\web2\\images\\53.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\54.png",
+      "PackagePath": "staticwebassets\\web2\\images\\54.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\55.png",
+      "PackagePath": "staticwebassets\\web2\\images\\55.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\56.png",
+      "PackagePath": "staticwebassets\\web2\\images\\56.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\57.png",
+      "PackagePath": "staticwebassets\\web2\\images\\57.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\58.png",
+      "PackagePath": "staticwebassets\\web2\\images\\58.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\59.png",
+      "PackagePath": "staticwebassets\\web2\\images\\59.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\6.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\6.png",
+      "PackagePath": "staticwebassets\\web2\\images\\6.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\60.png",
+      "PackagePath": "staticwebassets\\web2\\images\\60.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\61.png",
+      "PackagePath": "staticwebassets\\web2\\images\\61.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\62.png",
+      "PackagePath": "staticwebassets\\web2\\images\\62.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\63.png",
+      "PackagePath": "staticwebassets\\web2\\images\\63.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\64.png",
+      "PackagePath": "staticwebassets\\web2\\images\\64.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\65.png",
+      "PackagePath": "staticwebassets\\web2\\images\\65.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\66.png",
+      "PackagePath": "staticwebassets\\web2\\images\\66.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\67.png",
+      "PackagePath": "staticwebassets\\web2\\images\\67.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\68.png",
+      "PackagePath": "staticwebassets\\web2\\images\\68.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\69.png",
+      "PackagePath": "staticwebassets\\web2\\images\\69.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\7.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\7.png",
+      "PackagePath": "staticwebassets\\web2\\images\\7.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\70.png",
+      "PackagePath": "staticwebassets\\web2\\images\\70.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\71.png",
+      "PackagePath": "staticwebassets\\web2\\images\\71.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\72.png",
+      "PackagePath": "staticwebassets\\web2\\images\\72.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\73.png",
+      "PackagePath": "staticwebassets\\web2\\images\\73.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\74.png",
+      "PackagePath": "staticwebassets\\web2\\images\\74.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\75.png",
+      "PackagePath": "staticwebassets\\web2\\images\\75.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\76.png",
+      "PackagePath": "staticwebassets\\web2\\images\\76.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\8.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\8.png",
+      "PackagePath": "staticwebassets\\web2\\images\\8.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\web2\\images\\9.jpg"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\9.png",
+      "PackagePath": "staticwebassets\\web2\\images\\9.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\web2\\images\\arrow.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\card.png",
+      "PackagePath": "staticwebassets\\web2\\images\\card.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\cart.png",
+      "PackagePath": "staticwebassets\\web2\\images\\cart.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\close_1.png",
+      "PackagePath": "staticwebassets\\web2\\images\\close_1.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\img-sp.png",
+      "PackagePath": "staticwebassets\\web2\\images\\img-sp.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\offer.png",
+      "PackagePath": "staticwebassets\\web2\\images\\offer.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\paypal.png",
+      "PackagePath": "staticwebassets\\web2\\images\\paypal.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\star.png",
+      "PackagePath": "staticwebassets\\web2\\images\\star.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\star1.png",
+      "PackagePath": "staticwebassets\\web2\\images\\star1.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\images\\tag.png",
+      "PackagePath": "staticwebassets\\web2\\images\\tag.png"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\index.html",
+      "PackagePath": "staticwebassets\\web2\\index.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\web2\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\js\\counterup.min.js",
+      "PackagePath": "staticwebassets\\web2\\js\\counterup.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\js\\creditly.js",
+      "PackagePath": "staticwebassets\\web2\\js\\creditly.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\js\\easing.js",
+      "PackagePath": "staticwebassets\\web2\\js\\easing.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\js\\easyResponsiveTabs.js",
+      "PackagePath": "staticwebassets\\web2\\js\\easyResponsiveTabs.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\web2\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\web2\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\js\\jquery.wmuSlider.js",
+      "PackagePath": "staticwebassets\\web2\\js\\jquery.wmuSlider.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\js\\minicart.js",
+      "PackagePath": "staticwebassets\\web2\\js\\minicart.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\web2\\js\\move-top.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\js\\okzoom.js",
+      "PackagePath": "staticwebassets\\web2\\js\\okzoom.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\web2\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\kitchen.html",
+      "PackagePath": "staticwebassets\\web2\\kitchen.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\login.html",
+      "PackagePath": "staticwebassets\\web2\\login.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\mail.html",
+      "PackagePath": "staticwebassets\\web2\\mail.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\payment.html",
+      "PackagePath": "staticwebassets\\web2\\payment.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\pet.html",
+      "PackagePath": "staticwebassets\\web2\\pet.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\privacy.html",
+      "PackagePath": "staticwebassets\\web2\\privacy.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\products.html",
+      "PackagePath": "staticwebassets\\web2\\products.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\services.html",
+      "PackagePath": "staticwebassets\\web2\\services.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\short-codes.html",
+      "PackagePath": "staticwebassets\\web2\\short-codes.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\single.html",
+      "PackagePath": "staticwebassets\\web2\\single.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\vegetables.html",
+      "PackagePath": "staticwebassets\\web2\\vegetables.html"
+    },
+    {
+      "Id": "E:\\Core MVC Project 6\\Core MVC Project 6\\wwwroot\\web2\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\web2\\w3layouts-License.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Core MVC Project 6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Core MVC Project 6.props",
+      "PackagePath": "build\\Core MVC Project 6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Core MVC Project 6.props",
+      "PackagePath": "buildMultiTargeting\\Core MVC Project 6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Core MVC Project 6.props",
+      "PackagePath": "buildTransitive\\Core MVC Project 6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

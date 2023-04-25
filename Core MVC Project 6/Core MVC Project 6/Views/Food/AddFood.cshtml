@@ -1,0 +1,28 @@
+﻿@model Core_MVC_Project_6.Models.Food
+
+@{
+    ViewData["Title"] = "AddFood";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@using (Html.BeginForm("AddFood", "Food", FormMethod.Post))
+{
+    <br />
+    <h3>Food Name</h3>
+    @Html.TextBoxFor(m => m.FoodName, new { @class="form-control"})
+    
+    <h3>Food Discription</h3>
+    @Html.TextBoxFor(m => m.FoodDescription, new { @class="form-control"})
+    <h3>Food Price</h3>
+    @Html.TextBoxFor(m => m.FoodPrice, new { @class="form-control"})
+    <h3>Food Stock</h3>
+    @Html.TextBoxFor(m => m.FoodStock, new { @class="form-control"})
+    <h3>Food Image</h3>
+    @Html.TextBoxFor(m => m.FoodImageURL, new { @class="form-control"})
+    <h3>Food Category</h3>
+    @Html.DropDownListFor(m => m.CategoryID,(List<SelectListItem>)ViewBag.foodsCategories, new { @class="form-control"})
+
+    <br />
+    <button style="margin-left:10px;" class="btn btn-info">Add</button>
+}
+

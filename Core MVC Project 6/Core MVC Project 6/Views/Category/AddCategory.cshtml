@@ -1,0 +1,20 @@
+﻿@model Core_MVC_Project_6.Models.Category;
+
+@{
+    ViewData["Title"] = "AddCategory";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@using(Html.BeginForm("AddCategory","Category",FormMethod.Post))
+{
+    <br />
+    <h3>Category Name</h3>
+    @Html.TextBoxFor(m => m.CategoryName, new { @class="form-control"})
+    @Html.ValidationMessageFor(x => x.CategoryName,"", new {@style="color:red"})
+    <h3>Cattegory Discription</h3>
+    @Html.TextBoxFor(m => m.CategoryDescription, new { @class="form-control"})
+    @Html.ValidationMessageFor(x => x.CategoryDescription,"", new {@style="color:red"})
+    <br />
+    <button style="margin-left:10px;" class="btn btn-info">Add</button>
+}
+

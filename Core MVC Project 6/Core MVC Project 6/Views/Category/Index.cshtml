@@ -1,0 +1,45 @@
+﻿@using Core_MVC_Project_6.Models;
+@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+@using X.PagedList.Web.Common;
+@model IPagedList<Category>
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<br />
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Discription</th>
+            <th>Is Active ?</th>
+            <th>Activate</th>
+            <th>Update</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <th>@c.CategoryID</th>
+                <td>@c.CategoryName</td>
+                <td>@c.CategoryDescription</td>
+                <td>@c.Status</td>
+                <td><a href="/Category/ActivationCategory/@c.CategoryID" class="btn btn-default" style="background-color:cyan">Activate</a></td>
+                <td><a href="/Category/UpdateCategory/@c.CategoryID" class="btn btn-success">Update</a></td>
+                <td><a href="/Category/DeleteCategory/@c.CategoryID" class="btn btn-danger">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+@Html.PagedListPager((IPagedList)Model, page => Url.Action("Index", new { page }))
+<br />
+<a href="/Category/AddCategory" style="background-color:blueviolet; margin-left:10px;" class="btn btn-default">Add New Category</a>
+ 
